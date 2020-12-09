@@ -1,0 +1,12 @@
+Hi Team,
+
+Please analyze my above mentioned Strategy for the time between 
+Start : 17-Sep-2020 21:48:53
+Current : 18-Sep-2020 16:00 00
+
+When I am backtesting this code for the above mentioned time frame, the trades are open at same time but with different opening and closing price due to which the Actual results are varrying from back testing results.
+
+BackTesting - It gives 156.65$ Profit
+My Actual Live account - It gives 6.50$ Loss
+
+This is really not what I was expecting. Please guide us what modification I need to make in my Live Code so that I get the results as Back Testing.
